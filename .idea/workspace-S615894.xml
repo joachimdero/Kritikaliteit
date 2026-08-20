@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fff7af82-3cd5-453d-ac4b-cb1417ac7dc7" name="Changes" comment="herberekening ahi">
+      <change afterPath="$PROJECT_DIR$/berekeningAhi_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kritikaliteit_bereken_aci_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kritikaliteit_bereken_ahi_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kritikaliteit_bereken_ari_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kritikaliteit_toolbox.pyt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerekenAci.py" beforeDir="false" afterPath="$PROJECT_DIR$/BerekenAci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bereken_refwaarden.py" beforeDir="false" afterPath="$PROJECT_DIR$/bereken_refwaarden.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berekeningAci_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/berekeningAci_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deLijnToWegsegment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/deLijnToWegsegment2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staatvandewegXaci.py" beforeDir="false" afterPath="$PROJECT_DIR$/z_berekeningAri_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staatvandewegXaci_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/berekeningAri_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verkeersmodelToWegsegment.py" beforeDir="false" afterPath="$PROJECT_DIR$/verkeersmodelToWegsegment.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/derojp/Vlaamse overheid - Office 365/TeamAIM-BIM - Team_AssetBeheer_GisCommons/GIStools/Python_scripts/Projecten/criticaliteit2023" value="2T0ewAaD7zZg5GjqTkUODsBY4js" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;joachimdero&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/joachimdero/Criticaliteit.git&quot;,
+    &quot;accountId&quot;: &quot;b58c4066-efe0-4738-9ebd-74d7263e0c80&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2T0ewAaD7zZg5GjqTkUODsBY4js" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.berekeningAci_methods.executor": "Run",
+    "Python.berekeningAri_methods.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/derojp/Vlaamse overheid - Office 365/TeamAIM-BIM - Team_AssetBeheer_GisCommons/GIStools/Python_scripts/Projecten/criticaliteit2023",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "two.files.diff.last.used.folder": "C:/GoogleSharedDrives/Team GIS/Projecten/AddHoc/criticaliteit"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GoogleSharedDrives\Team AIM\Team AIM\Data beheer\Gedeeld\GIStools\Python_scripts\Projecten\criticaliteit2023" />
+      <recent name="C:\GoogleTeamDrive\GIStools\Python_scripts\Projecten\criticaliteit2023" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GoogleSharedDrives\Team AIM\Team AIM\Data beheer\Gedeeld\GIStools\AwvFuncties" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.berekeningAri_methods">
+    <configuration name="berekeningAci_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="criticaliteit2023" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\GoogleSharedDrives\Team AIM\Team AIM\Data beheer\Gedeeld\GIStools\Python_scripts\Projecten\criticaliteit2023\berekeningAci_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="berekeningAci_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="criticaliteit2023" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\GoogleSharedDrives\Team AIM\Team AIM\Data beheer\Gedeeld\GIStools\Python_scripts\Projecten\criticaliteit2023\berekeningAci_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="berekeningAri_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="criticaliteit2023" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/berekeningAri_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="criticaliteit2023" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.berekeningAri_methods" />
+        <item itemvalue="Python.berekeningAci_methods" />
+        <item itemvalue="Python.berekeningAci_main" />
+        <item itemvalue="Python.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fff7af82-3cd5-453d-ac4b-cb1417ac7dc7" name="Changes" comment="" />
+      <created>1690184661272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690184661272</updated>
+    </task>
+    <task id="LOCAL-00001" summary="berekening ari">
+      <option name="closed" value="true" />
+      <created>1751542647039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751542647039</updated>
+    </task>
+    <task id="LOCAL-00002" summary="herberekening ahi">
+      <option name="closed" value="true" />
+      <created>1753255783367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753255783367</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="berekening ari" />
+    <MESSAGE value="herberekening ahi" />
+    <option name="LAST_COMMIT_MESSAGE" value="herberekening ahi" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../AwvFuncties/AwvFuncties.py</url>
+          <line>1671</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../AwvFuncties/AwvFuncties.py</url>
+          <line>1693</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
